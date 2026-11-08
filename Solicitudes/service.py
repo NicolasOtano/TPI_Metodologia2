@@ -2,12 +2,12 @@ from collections import Counter
 
 from .modelos import Estado, Solicitud
 from .parametros import NuevaSolicitud
-from .repositorio import RepositorioSolicitudes
+from .repositorio import RepositorioSolicitudesPuerto
 
 
 class ServicioSolicitudes:
     """Coordina reglas de negocio sin ocuparse de la interfaz ni del almacenamiento físico."""
-    def __init__(self, repositorio: RepositorioSolicitudes):
+    def __init__(self, repositorio: RepositorioSolicitudesPuerto):
         self._repositorio = repositorio
         self._siguiente_id = 1
 
