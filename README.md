@@ -96,8 +96,8 @@ El proyecto utiliza módulos de la biblioteca estándar de Python, por lo que no
 bash
 
 ```
-git clone <URL_DEL_REPOSITORIO>
-cd <CARPETA_DEL_PROYECTO>
+git clone [<URL_DEL_REPOSITORIO>](https://github.com/NicolasOtano/TPI_Metodologia2.git)
+cd proyecto
 ```
 
 ### Ejecutar el sistema
@@ -192,7 +192,7 @@ De acuerdo con los requisitos del TPI, se contemplan las siguientes etiquetas:
 --------------------------------------------------
 --------------------------------------------------
 
-**Repositorio de GitHub:** Agregar enlace al repositorio.
+**Repositorio de GitHub:** (https://github.com/NicolasOtano/TPI_Metodologia2.git)
 
 ## Mejoras futuras
 
