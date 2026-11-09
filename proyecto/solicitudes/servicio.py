@@ -2,7 +2,7 @@ from collections import Counter
 
 from .modelos import Estado, Solicitud
 from .parametros import NuevaSolicitud
-from .repositorio import RepositorioSolicitudesPuerto
+from .puertos import RepositorioSolicitudesPuerto
 
 
 class ServicioSolicitudes:
