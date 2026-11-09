@@ -211,7 +211,8 @@ Como posibles mejoras futuras del sistema consideramos:
 **Trabajo:** Trabajo Práctico Integrador (TPI)\
 **Título:** Evolución profesional de un sistema existente: calidad, deuda técnica, refactoring y revisión técnica\
 **Integrantes:** Ocete Rocio Milagros, Otaño Nicolas y Nicolás Azcuy\
-**Comisión:** 7 (Ocete), (Otaño), (Azcuy)\
+**Comisión:** 7 (Ocete), (Azcuy)\
+**Comisión:** 8 (Otaño)
 **Fecha de entrega:** 08/11/2026
 
 
