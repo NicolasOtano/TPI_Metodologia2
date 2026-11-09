@@ -212,7 +212,7 @@ Como posibles mejoras futuras del sistema consideramos:
 **Título:** Evolución profesional de un sistema existente: calidad, deuda técnica, refactoring y revisión técnica\
 **Integrantes:** Ocete Rocio Milagros, Otaño Nicolas y Nicolás Azcuy\
 **Comisión:** 7 (Ocete), (Otaño), (Azcuy)\
-**Fecha de entrega:** 
+**Fecha de entrega:** 08/11/2026
 
 
 --------------------------------------------------
