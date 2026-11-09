@@ -1,6 +1,7 @@
 import unittest
+
 from baseline.sistema_base import gestionar, solicitudes
-from solicitudes.modelos import Estado, Prioridad
+from solicitudes.modelos import Prioridad
 from solicitudes.parametros import NuevaSolicitud
 from solicitudes.repositorio import RepositorioSolicitudes
 from solicitudes.servicio import ServicioSolicitudes
